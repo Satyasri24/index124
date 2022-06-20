@@ -1,0 +1,33 @@
+.box{
+    background-image: url(Screenshot2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 50px;
+    overflow: hidden;
+    background-color: #e3d5d5;
+}
+li {
+float:left;
+}
+
+li{
+    /* display: inline; */
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.top_ribbon{
+    background-color: black;
+    padding: 20px;
+    color: aliceblue;
+}
+/* .card-head{
+    background-size:auto ;
+} */
